@@ -3,6 +3,18 @@ Daniel Neustus
 Toomas Nikolajev
 Ella Hiedel
 
+## Printer ja tööriistad
+
+# Pane kirja, milliseid printereid, materjale ja tööriistu te tegelikult kasutate.
+
+Kasutatud vahendid
+3D-printer: Prusa CORE One Gen2
+Materjal: Prusa PLA filament
+Viilutamistarkvara: PrusaSlicer
+CAD-tarkvara: Autodesk Fusion 360
+Versioonihaldus ja repo: GitHub
+Arenduskeskkond: Visual Studio / Visual Studio Code
+AI-tööriistad: Codex ja ChatGPT
 
 ## 3D printimine ja CAD: Labor 1 — Printer, ja tööriist, mis annab järele
 

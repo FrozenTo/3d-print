@@ -7,20 +7,22 @@
 - [O] Kopeeri labori ülesanne faili `3d-print/lab1/README.md`.
 - [O] Veendu, et repo juurkaustas on `AGENTS.md`.
 - [O] Pane README-sse kirja meeskonnaliikmed.
-- [ ] Lisa esimene arenduspäeviku sissekanne.
-- [ ] Pane kirja, milliseid printereid, materjale ja tööriistu tegelikult kasutate.
+- [O] Lisa esimene arenduspäeviku sissekanne.
+- [O] Pane kirja, milliseid printereid, materjale ja tööriistu tegelikult kasutate.
+
+Esimene kuup, mis oli välja prinditud, oli silindriga kinni jäänud ja jäi üks tervikuks.
 
 ---
 
 ## 1. Kuup — printeri lõtku test
 
-- [ ] Tee Fusion 360-s 50 × 50 × 50 mm kuup.
-- [ ] Tee kuubi sisse silinder raadiusega 20 mm.
-- [ ] Tee silindri ja ümbritseva osa vaheline lõtk Fusionis parameetriks.
-- [ ] Salvesta Fusioni lähtefail.
-- [ ] Ekspordi STL.
-- [ ] Tee PrusaSliceris `.3mf`.
-- [ ] Prindi esimene lõtkuvariant.
+- [O] Tee Fusion 360-s 50 × 50 × 50 mm kuup.
+- [O] Tee kuubi sisse silinder raadiusega 20 mm.
+- [O] Tee silindri ja ümbritseva osa vaheline lõtk Fusionis parameetriks. (tehtud 0.1 mm) Oli vaja 0.2mm
+- [O] Salvesta Fusioni lähtefail.
+- [O] Ekspordi STL.
+- [O] Tee PrusaSliceris `.3mf`.
+- [O] Prindi esimene lõtkuvariant.
 - [ ] Kontrolli, kas silinder:
   - [ ] on täiesti kinni;
   - [ ] liigub suure jõuga;
