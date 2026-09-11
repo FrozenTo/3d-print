@@ -6,7 +6,7 @@
 - [O] Loo kaust `3d-print/lab1/`.
 - [O] Kopeeri labori ülesanne faili `3d-print/lab1/README.md`.
 - [O] Veendu, et repo juurkaustas on `AGENTS.md`.
-- [ ] Pane README-sse kirja meeskonnaliikmed.
+- [O] Pane README-sse kirja meeskonnaliikmed.
 - [ ] Lisa esimene arenduspäeviku sissekanne.
 - [ ] Pane kirja, milliseid printereid, materjale ja tööriistu tegelikult kasutate.
 

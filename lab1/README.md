@@ -1,3 +1,9 @@
+## Meeskonnaliikmed
+Daniel Neustus
+Toomas Nikolajev
+Ella Hiedel
+
+
 ## 3D printimine ja CAD: Labor 1 — Printer, ja tööriist, mis annab järele
 
 **Töömaht:** 30 tundi | **Hindamine:** 20 punkti | **Meeskond:** 3 tudengit | **Välja antud:** 11.09.26 | **Tellimise kuupäev:** 22.09.26 | **Esimene kaitsmine:** 06.10.26, veebis
