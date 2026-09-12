@@ -12,15 +12,15 @@
 
 ## 0. Projekti algseadistus
 
-- [ ] Loo repos kaust `data-acquisition/lab1/`
-- [ ] Kopeeri labori ülesanne faili `README.md`
-- [ ] Loo vajalik kaustastruktuur:
+- [O] Loo repos kaust `data-acquisition/lab1/`
+- [O] Kopeeri labori ülesanne faili `README.md`
+- [O] Loo vajalik kaustastruktuur:
   - [ ] `src/`
   - [ ] `data/`
   - [ ] `notebooks/`
   - [ ] `docs/`
-- [ ] Kontrolli, et repo juurkaustas oleks `AGENTS.md`
-- [ ] Lisa arenduspäevik
+- [O] Kontrolli, et repo juurkaustas oleks `AGENTS.md`
+- [O] Lisa arenduspäevik
 - [ ] Pane kirja meeskonnaliikmed
 - [ ] Pane kirja tegelikult kasutatavad vahendid ja tarkvara
 - [ ] Lepi Nutikate Lahenduste L1 meeskonnaga kokku tähe saatmise kanal

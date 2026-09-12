@@ -2,6 +2,7 @@
 Daniel Neustus
 Toomas Nikolajev
 Ella Hiedel
+Sergei Varankin
 
 ## Printer ja tööriistad
 
