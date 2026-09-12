@@ -21,9 +21,11 @@
   - [ ] `docs/`
 - [O] Kontrolli, et repo juurkaustas oleks `AGENTS.md`
 - [O] Lisa arenduspäevik
-- [ ] Pane kirja meeskonnaliikmed
-- [ ] Pane kirja tegelikult kasutatavad vahendid ja tarkvara
+- [O] Pane kirja meeskonnaliikmed
+- [/] Pane kirja tegelikult kasutatavad vahendid ja tarkvara
 - [ ] Lepi Nutikate Lahenduste L1 meeskonnaga kokku tähe saatmise kanal
+
+### MG400 ühenduse test: 192.168.2.6 teise LAN-pordi kaudu ei töötanud. LAN1 kaudu töötas ühendus aadressiga 192.168.1.6, seega kasutame edaspidi seda.
 
 ---
 
