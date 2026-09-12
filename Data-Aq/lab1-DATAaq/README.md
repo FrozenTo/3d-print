@@ -2,6 +2,19 @@
 
 **Töömaht:** 32 tundi | **Hindamine:** 20 punkti | **Meeskond:** 3 tudengit | **Välja antud:** 12.09.26 | **Tellimise kuupäev:** 22.09.26 | **Esimene kaitsmine:** 06.10.26, veebis
 
+## Meeskonnaliikmed
+Daniel Neustus
+Toomas Nikolajev
+Ella Hiedel
+Sergei Varankin
+
+# Pane kirja, milliseid printereid, materjale ja tööriistu te tegelikult kasutate.
+
+Kasutatud vahendid:
+Versioonihaldus ja repo: GitHub
+Arenduskeskkond: Visual Studio / Visual Studio Code
+AI-tööriistad: Codex ja ChatGPT
+
 ### Kuidas see dokument töötab
 
 * Kopeeri see fail esimesel päeval oma repo laborikausta `README.md`-ks ja täida seal, töö käigus.
