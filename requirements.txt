@@ -1,0 +1,9 @@
+pyserial
+numpy
+pandas
+scipy
+matplotlib
+jupyterlab
+ipykernel
+platformio
+-e ./Data-Aq/Mg400/mg400-base

@@ -15,3 +15,16 @@
 - Measured values: no new measurements taken during repository preparation. The user's checklist records a successful MG400 connection through LAN1 at `192.168.1.6` after the other LAN-port attempt at `192.168.2.6` failed.
 - Decisions: publish the Lab 1 documentation and leave the MG400 submodule unchanged, as requested.
 - Next session: continue the remaining tasks in `lab1/checklist.md`.
+
+## 2026-09-12 — Command-line tool setup
+
+- People present: not recorded; software setup performed by Codex.
+- Work: installed the lab Python analysis, serial, notebook, MG400, and PlatformIO tools in the root `.venv`, and installed draw.io through winget. Added root setup instructions and dependency files.
+- Measured values: no laboratory measurements taken; Python dependency and import checks passed. No robot commands or firmware uploads were performed.
+- Decisions: reuse the existing Python, Git, VS Code, Fusion, PrusaSlicer, and DobotStudio installations; use PlatformIO CLI for AtomS3 firmware.
+- Next session: select the root `.venv` interpreter in VS Code and continue the lab checklist.
+
+Software verification follow-up: the AtomS3 compile-only test passed with
+Espressif32 7.1.3, M5Unified 0.2.21, and M5GFX 0.2.28. The initial M5AtomS3
+library test failed because dependencies were missing; the documented setup
+uses M5Unified instead. No firmware was uploaded.
