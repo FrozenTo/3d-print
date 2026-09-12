@@ -14,6 +14,7 @@ Kasutatud vahendid:
 Versioonihaldus ja repo: GitHub
 Arenduskeskkond: Visual Studio / Visual Studio Code
 AI-tööriistad: Codex ja ChatGPT
+Robot: Dobot MG400
 
 ### Kuidas see dokument töötab
 
