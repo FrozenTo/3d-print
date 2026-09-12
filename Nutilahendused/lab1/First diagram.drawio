@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="FgtCFwIpEpEKBB3Jf30c">
+    <mxGraphModel dx="721" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="atoms3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#333333;" value="&lt;b&gt;AtomS3&lt;/b&gt;&lt;br&gt;&lt;br&gt;• nupp&lt;br&gt;• ekraan&lt;br&gt;• WiFi AP" vertex="1">
+          <mxGeometry height="130" width="180" x="400" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="laptop" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f4f8;strokeColor=#6c8ebf;fontColor=#333333;" value="&lt;b&gt;Sülearvuti / JAAM&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Python&lt;br&gt;• Flask&lt;br&gt;• tähe vastuvõtt&lt;br&gt;• trajektoori loomine" vertex="1">
+          <mxGeometry height="150" width="300" x="340" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mg400" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#333333;" value="&lt;b&gt;MG400&lt;/b&gt;&lt;br&gt;&lt;br&gt;29999 – käsud&lt;br&gt;30003 – liikumine&lt;br&gt;30004 – tagasiside" vertex="1">
+          <mxGeometry height="140" width="300" x="340" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pump" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4ec;strokeColor=#b85450;fontColor=#333333;" value="&lt;b&gt;Pumbakast&lt;/b&gt;&lt;br&gt;&lt;br&gt;suction / blow" vertex="1">
+          <mxGeometry height="100" width="180" x="720" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="holder" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontColor=#333333;" value="&lt;b&gt;Pastakahoidik&lt;/b&gt;&lt;br&gt;/ marker" vertex="1">
+          <mxGeometry height="90" width="220" x="380" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="paper" parent="1" style="shape=document;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;size=0;" value="Paber" vertex="1">
+          <mxGeometry height="80" width="130" x="425" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="atoms3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6c8ebf;" target="laptop" value="WiFi / HTTP&lt;br&gt;{&quot;letter&quot;:&quot;A&quot;}">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="laptop" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=classic;strokeWidth=2;strokeColor=#d6b656;" target="mg400" value="Ethernet / TCP-IP">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="mg400" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=classic;strokeWidth=2;strokeColor=#b85450;" target="pump" value="DO1 / DO2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="mg400" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=classic;strokeWidth=2;strokeColor=#82b366;" target="holder" value="Liikumine / kirjutamine">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="holder" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=classic;strokeWidth=2;strokeColor=#666666;" target="paper" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

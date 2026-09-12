@@ -1,4 +1,21 @@
+
 ## Nutikad Lahendused: Labor 1 — Robot, ekraan ja tähemasin
+
+## Meeskonnaliikmed
+Daniel Neustus
+Toomas Nikolajev
+Ella Hiedel
+Sergei Varankin
+
+# Robot sätted
+Roboti aadress: `192.168.1.6`
+Arvuti Ethernet-adapter:
+IP: `192.168.1.1`
+Mask: `255.255.255.0`
+Gateway: tühi
+  - [ ] `29999` — käsud / dashboard
+  - [ ] `30003` — liikumiskäsud
+  - [ ] `30004` — tagasiside
 
 **Töömaht:** 28 tundi | **Hindamine:** 20 punkti | **Meeskond:** 3 tudengit | **Välja antud:** 12.09.26 | **Tellimise kuupäev:** 22.09.26 | **Esimene kaitsmine:** 06.10.26, veebis
 
@@ -40,7 +57,7 @@ Esimene asi on tellimus. Esimesel päeval uusi osi ei ole: mõtle välja, mida s
 **Peab olema tehtud**
 
 - [ ] Tellimus 22.09: mis selle labori jaoks riiulil puudu on, failis `docs/bom.md`.
-- [ ] Robot on API-režiimis. `mg400 status` vastab. Leht liigutab robotit. Pump imeb ja puhub käsurealt.
+- [O] Robot on API-režiimis. `mg400 status` vastab. Leht liigutab robotit. Pump imeb ja puhub käsurealt.
 - [ ] Neli asendit õpetatud ja failis `data/positions.json`. Robot tõstab proovitüki allikast valmis pessa kümme korda järjest.
 - [ ] AtomS3 püsivara on PlatformIO-st peale laetud. Atom teeb oma WiFi võrgu. Telefon liitub ja leht avaneb ise, ilma aadressi trükkimata. Pilt jõuab lehelt ekraanile.
 - [ ] Atomi lehel on seadete ja testide osa. Fail `docs/atom_page.md` ütleb, mis seal on.

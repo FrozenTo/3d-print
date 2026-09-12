@@ -4,15 +4,15 @@
 
 - [O] Loo kaust `smart-solutions/lab1/`
 - [O] Kopeeri labori ülesanne faili `README.md`
-- [ ] Loo kaust `src/`
-- [ ] Loo kaust `firmware/`
-- [ ] Loo kaust `data/`
-- [ ] Loo kaust `docs/`
-- [ ] Kontrolli ja uuenda repo juurkaustas `AGENTS.md`
-- [ ] Loo `CHECKLIST.md`
-- [ ] Alusta arenduspäevikut
-- [ ] Pane kirja meeskonnaliikmed
-- [ ] Tee esialgne draw.io skeem kogu süsteemist
+- [O] Loo kaust `src/`
+- [O] Loo kaust `firmware/`
+- [O] Loo kaust `data/`
+- [O] Loo kaust `docs/`
+- [O] Kontrolli ja uuenda repo juurkaustas `AGENTS.md`
+- [O] Loo `CHECKLIST.md`
+- [/] Alusta arenduspäevikut
+- [O] Pane kirja meeskonnaliikmed
+- [O] Tee esialgne draw.io skeem kogu süsteemist
 
 ---
 
@@ -21,13 +21,13 @@
 **Tähtaeg: 22.09.2026**
 
 - [ ] Vaata üle, millised vajalikud osad on juba olemas
-- [ ] Kontrolli, kas sülearvutil on Ethernet-port
-- [ ] Vajadusel lisa USB-C → Ethernet adapter
-- [ ] Kontrolli LAN-kaabli olemasolu
-- [ ] Kontrolli USB-C kaablite olemasolu
-- [ ] Kontrolli markeri/pastaka olemasolu
-- [ ] Kontrolli paberi olemasolu
-- [ ] Kontrolli maalriteibi olemasolu
+- [O] Kontrolli, kas sülearvutil on Ethernet-port
+- [O] Vajadusel lisa USB-C → Ethernet adapter
+- [O] Kontrolli LAN-kaabli olemasolu
+- [O] Kontrolli USB-C kaablite olemasolu
+- [O] Kontrolli markeri/pastaka olemasolu
+- [O] Kontrolli paberi olemasolu
+- [O] Kontrolli maalriteibi olemasolu
 - [ ] Kontrolli AtomS3 jaoks vajalikke lisatarvikuid
 - [ ] Pane puuduvad komponendid faili `docs/bom.md`
 - [ ] Lisa iga komponendi juurde põhjendus, miks seda vaja on
@@ -38,13 +38,13 @@
 
 ## 3. MG400 võrguühendus
 
-- [ ] Ühenda MG400 LAN-kaabliga arvutiga
-- [ ] Kontrolli roboti aadressi: `192.168.1.6`
-- [ ] Seadista arvuti Ethernet-adapter:
-  - [ ] IP: `192.168.1.50`
-  - [ ] Mask: `255.255.255.0`
-  - [ ] Gateway: tühi
-- [ ] Testi ühendust käsuga `ping 192.168.1.6`
+- [O] Ühenda MG400 LAN-kaabliga arvutiga
+- [O] Kontrolli roboti aadressi: `192.168.1.6`
+- [O] Seadista arvuti Ethernet-adapter:
+  - [O] IP: `192.168.1.50`
+  - [O] Mask: `255.255.255.0`
+  - [O] Gateway: tühi
+- [O] Testi ühendust käsuga `ping 192.168.1.6`
 - [ ] Pane aadressiplaan dokumentatsiooni
 - [ ] Pane kirja kasutatud Ethernet-liides
 
@@ -52,23 +52,23 @@
 
 ## 4. MG400 baaspakett
 
-- [ ] Laadi/klooni `KKallas/mg400-base`
-- [ ] Kontrolli baaspaketi README-d
-- [ ] Loo Python virtual environment
-- [ ] Installi vajalikud Python paketid
-- [ ] Käivita `mg400 status`
-- [ ] Kontrolli, et roboti režiim kuvatakse
-- [ ] Kontrolli, et roboti praegune asend kuvatakse
-- [ ] Käivita `mg400 serve`
-- [ ] Ava MG400 veebiliides
-- [ ] Ühenda robot veebiliidesest
-- [ ] Luba robot veebiliidesest
-- [ ] Testi X liikumist
-- [ ] Testi Y liikumist
-- [ ] Testi Z liikumist
-- [ ] Testi R liikumist
-- [ ] Testi salvestatud asendeid
-- [ ] Esimesed liikumised tee 20% kiirusega
+- [O] Laadi/klooni `KKallas/mg400-base`
+- [O] Kontrolli baaspaketi README-d
+- [O] Loo Python virtual environment
+- [O] Installi vajalikud Python paketid
+- [O] Käivita `mg400 status`
+- [O] Kontrolli, et roboti režiim kuvatakse
+- [O] Kontrolli, et roboti praegune asend kuvatakse
+- [O] Käivita `mg400 serve`
+- [O] Ava MG400 veebiliides
+- [O] Ühenda robot veebiliidesest
+- [O] Luba robot veebiliidesest
+- [O] Testi X liikumist
+- [O] Testi Y liikumist
+- [O] Testi Z liikumist
+- [O] Testi R liikumist
+- [O] Testi salvestatud asendeid
+- [O] Esimesed liikumised tee 20% kiirusega
 
 ---
 
