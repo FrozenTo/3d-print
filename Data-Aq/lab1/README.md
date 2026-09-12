@@ -16,6 +16,19 @@ Arenduskeskkond: Visual Studio / Visual Studio Code / Dobot Studio Pro
 AI-tööriistad: Codex ja ChatGPT
 Robot: Dobot MG400
 
+# Anduri rõhu andmed
+
+(P_gauge)
+Blow (Max): 230 kPa
+Vacuum (Min): -74 kPa
+toarõhk: 0 kPa
+
+(P_abs)
+Blow (Max): 315 kPa
+Vacuum (Min): 29 kPa
+toarõhk: 96 kPa
+
+
 
 ### Kuidas see dokument töötab
 
