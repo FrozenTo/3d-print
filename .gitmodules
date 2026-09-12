@@ -1,0 +1,3 @@
+[submodule "Data-Aq/Mg400/mg400-base"]
+	path = Data-Aq/Mg400/mg400-base
+	url = https://github.com/KKallas/mg400-base.git
