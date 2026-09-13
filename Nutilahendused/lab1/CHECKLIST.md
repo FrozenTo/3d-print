@@ -123,7 +123,7 @@ Seejärel:
 - [O] Kontrolli iga positsiooni Y
 - [O] Kontrolli iga positsiooni Z
 - [O] Kontrolli iga positsiooni R
-- [ ] Salvesta positsioonid faili `data/positions.json`
+- [x] Salvesta positsioonid faili `data/positions.json`
 - [ ] Kontrolli, et positsioonid laaditakse failist õigesti
 
 ---

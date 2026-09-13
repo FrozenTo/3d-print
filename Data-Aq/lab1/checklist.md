@@ -15,10 +15,10 @@
 - [O] Loo repos kaust `data-acquisition/lab1/`
 - [O] Kopeeri labori ülesanne faili `README.md`
 - [O] Loo vajalik kaustastruktuur:
-  - [ ] `src/`
-  - [ ] `data/`
-  - [ ] `notebooks/`
-  - [ ] `docs/`
+  - [x] `src/`
+  - [x] `data/`
+  - [x] `notebooks/`
+  - [x] `docs/`
 - [O] Kontrolli, et repo juurkaustas oleks `AGENTS.md`
 - [O] Lisa arenduspäevik
 - [O] Pane kirja meeskonnaliikmed
