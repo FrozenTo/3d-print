@@ -1,21 +1,36 @@
 
-## Nutikad Lahendused: Labor 1 — Robot, ekraan ja tähemasin
-
 ## Meeskonnaliikmed
+
 Daniel Neustus
+
 Toomas Nikolajev
+
 Ella Hiedel
+
 Sergei Varankin
 
-# Robot sätted
+
+## Robot sätted
+
 Roboti aadress: `192.168.1.6`
+
 Arvuti Ethernet-adapter:
+
 IP: `192.168.1.1`
+
 Mask: `255.255.255.0`
+
 Gateway: tühi
+
   - [ ] `29999` — käsud / dashboard
+        
   - [ ] `30003` — liikumiskäsud
+        
   - [ ] `30004` — tagasiside
+
+
+# Nutikad Lahendused: Labor 1 — Robot, ekraan ja tähemasin
+
 
 **Töömaht:** 28 tundi | **Hindamine:** 20 punkti | **Meeskond:** 3 tudengit | **Välja antud:** 12.09.26 | **Tellimise kuupäev:** 22.09.26 | **Esimene kaitsmine:** 06.10.26, veebis
 
