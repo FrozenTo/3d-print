@@ -1,23 +1,35 @@
 ## Meeskonnaliikmed
-Daniel Neustus
-Toomas Nikolajev
-Ella Hiedel
-Sergei Varankin
 
-## Printer ja tööriistad
+Daniel Neustus 
 
-# Pane kirja, milliseid printereid, materjale ja tööriistu te tegelikult kasutate.
+Toomas Nikolajev 
+
+Ella Hiedel 
+
+Sergei Varankin 
+
+# Printer ja tööriistad
+
+### Panime kirja, milliseid printereid, materjale ja tööriistu me tegelikult kasutame.
 
 Kasutatud vahendid
+
 3D-printer: Prusa CORE One Gen2
+
 Materjal: Prusa PLA filament
+
 Viilutamistarkvara: PrusaSlicer
+
 CAD-tarkvara: Autodesk Fusion 360
+
 Versioonihaldus ja repo: GitHub
+
 Arenduskeskkond: Visual Studio / Visual Studio Code
+
 AI-tööriistad: Codex ja ChatGPT
 
-## 3D printimine ja CAD: Labor 1 — Printer, ja tööriist, mis annab järele
+
+# 3D printimine ja CAD: Labor 1 — Printer, ja tööriist, mis annab järele
 
 **Töömaht:** 30 tundi | **Hindamine:** 20 punkti | **Meeskond:** 3 tudengit | **Välja antud:** 11.09.26 | **Tellimise kuupäev:** 22.09.26 | **Esimene kaitsmine:** 06.10.26, veebis
 
