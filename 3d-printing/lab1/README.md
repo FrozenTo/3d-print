@@ -4,9 +4,9 @@ Toomas Nikolajev
 Ella Hiedel
 Sergei Varankin
 
-## Printer ja tööriistad
+# Printer ja tööriistad
 
-# Pane kirja, milliseid printereid, materjale ja tööriistu te tegelikult kasutate.
+### Panime kirja, milliseid printereid, materjale ja tööriistu te tegelikult kasutate.
 
 Kasutatud vahendid
 3D-printer: Prusa CORE One Gen2
