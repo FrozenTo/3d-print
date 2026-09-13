@@ -16,6 +16,9 @@ Gateway: tühi
   - [ ] `29999` — käsud / dashboard
   - [ ] `30003` — liikumiskäsud
   - [ ] `30004` — tagasiside
+DO-1 - Push
+DO-2 - Pull
+- Kontrollisime läbi eseme tõste, et DO-2 tõstis, lülitasime ta välja, ese jäi kinni, DO-1 tõukas ta välja või kätte tunde järgi.
 
 **Töömaht:** 28 tundi | **Hindamine:** 20 punkti | **Meeskond:** 3 tudengit | **Välja antud:** 12.09.26 | **Tellimise kuupäev:** 22.09.26 | **Esimene kaitsmine:** 06.10.26, veebis
 

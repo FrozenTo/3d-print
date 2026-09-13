@@ -94,17 +94,17 @@ Baaspaketi eeldus:
 
 Kontrollida enne kasutamist.
 
-- [ ] Leia pumbakasti dokumentatsioon
-- [ ] Kontrolli pumbakasti ühendusi
-- [ ] Kontrolli DO1 multimeetriga
-- [ ] Kontrolli DO2 multimeetriga
-- [ ] Tuvasta, milline DO juhib imemist
-- [ ] Tuvasta, milline DO juhib puhumist
-- [ ] Testi imemist käsurealt
-- [ ] Testi puhumist käsurealt
-- [ ] Pane õiged DO-numbrid dokumentatsiooni
-- [ ] Kirjelda, kuidas DO-numbrid üle kontrolliti
-- [ ] Märgi üles, kui baaspaketi eeldus oli vale
+- [O] Leia pumbakasti dokumentatsioon
+- [O] Kontrolli pumbakasti ühendusi
+- [O] Kontrolli DO1 multimeetriga
+- [O] Kontrolli DO2 multimeetriga
+- [O] Tuvasta, milline DO juhib imemist
+- [O] Tuvasta, milline DO juhib puhumist
+- [O] Testi imemist käsurealt
+- [O] Testi puhumist käsurealt
+- [O] Pane õiged DO-numbrid dokumentatsiooni
+- [O] Kirjelda, kuidas DO-numbrid üle kontrolliti
+- [O] Märgi üles, kui baaspaketi eeldus oli vale
 
 ---
 
@@ -112,17 +112,17 @@ Kontrollida enne kasutamist.
 
 Õpeta robotile:
 
-- [ ] `above_source`
-- [ ] `source`
-- [ ] `above_finished`
-- [ ] `finished`
+- [O] `above_source`
+- [O] `source`
+- [O] `above_finished`
+- [O] `finished`
 
 Seejärel:
 
-- [ ] Kontrolli iga positsiooni X
-- [ ] Kontrolli iga positsiooni Y
-- [ ] Kontrolli iga positsiooni Z
-- [ ] Kontrolli iga positsiooni R
+- [O] Kontrolli iga positsiooni X
+- [O] Kontrolli iga positsiooni Y
+- [O] Kontrolli iga positsiooni Z
+- [O] Kontrolli iga positsiooni R
 - [ ] Salvesta positsioonid faili `data/positions.json`
 - [ ] Kontrolli, et positsioonid laaditakse failist õigesti
 
