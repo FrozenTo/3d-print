@@ -1,31 +1,49 @@
-## Andmehõive: Labor 1 — Andur, ja kompressor, mis ise seisma jääb
+## Meeskonnaliikmed
+
+Daniel Neustus
+
+Toomas Nikolajev
+
+Ella Hiedel
+
+Sergei Varankin
+
+
+### Panime kirja, milliseid printereid, materjale ja tööriistu me tegelikult kasutate.
+
+Kasutatud vahendid:
+
+Versioonihaldus ja repo: GitHub
+
+Arenduskeskkond: Visual Studio / Visual Studio Code / Dobot Studio Pro
+
+AI-tööriistad: Codex ja ChatGPT
+
+Robot: Dobot MG400
+
+
+# Andmehõive: Labor 1 — Andur, ja kompressor, mis ise seisma jääb
 
 **Töömaht:** 32 tundi | **Hindamine:** 20 punkti | **Meeskond:** 3 tudengit | **Välja antud:** 12.09.26 | **Tellimise kuupäev:** 22.09.26 | **Esimene kaitsmine:** 06.10.26, veebis
 
-## Meeskonnaliikmed
-Daniel Neustus
-Toomas Nikolajev
-Ella Hiedel
-Sergei Varankin
 
-# Pane kirja, milliseid printereid, materjale ja tööriistu te tegelikult kasutate.
-
-Kasutatud vahendid:
-Versioonihaldus ja repo: GitHub
-Arenduskeskkond: Visual Studio / Visual Studio Code / Dobot Studio Pro
-AI-tööriistad: Codex ja ChatGPT
-Robot: Dobot MG400
-
-# Anduri rõhu andmed
+## Anduri rõhu andmed
 
 (P_gauge)
+
 Blow (Max): 230 kPa
+
 Vacuum (Min): -74 kPa
+
 toarõhk: 0 kPa
 
+
 (P_abs)
+
 Blow (Max): 315 kPa
+
 Vacuum (Min): 29 kPa
+
 toarõhk: 96 kPa
 
 
