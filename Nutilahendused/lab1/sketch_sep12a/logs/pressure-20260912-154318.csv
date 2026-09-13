@@ -1,0 +1,146 @@
+﻿# timestamp	serial_output
+2026-09-12T15:43:18.238	ESP-ROM:esp32s3-20210327
+2026-09-12T15:43:18.238	Build:Mar 27 2021
+"2026-09-12T15:43:18.240	rst:0x15 (USB_UART_CHIP_RESET),boot:0x18 (SPI_FAST_FLASH_BOOT)"
+2026-09-12T15:43:18.240	Saved PC:0x42022c16
+2026-09-12T15:43:18.241	SPIWP:0xee
+"2026-09-12T15:43:18.241	mode:DIO, clock div:1"
+"2026-09-12T15:43:18.243	load:0x3fce3808,len:0x4bc"
+"2026-09-12T15:43:18.246	load:0x403c9700,len:0xbd8"
+"2026-09-12T15:43:18.248	load:0x403cc700,len:0x2a0c"
+2026-09-12T15:43:18.255	entry 0x403c98d0
+2026-09-12T15:43:19.830	
+2026-09-12T15:43:19.831	MPX5700AP pressure monitor
+2026-09-12T15:43:19.834	Sensor GPIO: 5
+2026-09-12T15:43:19.835	Sensor supply voltage: 5.06 V
+2026-09-12T15:43:19.837	Keep the pump off during startup; the first readings become the air reference.
+2026-09-12T15:43:20.633	Atmospheric reference = 97.5 kPa (NORMAL)
+2026-09-12T15:43:20.873	ADC=983  Voltage=829 mV  P_abs=98.0 kPa  P_gauge=0.6 kPa  Air=NORMAL
+2026-09-12T15:43:21.614	ADC=958  Voltage=838 mV  P_abs=97.6 kPa  P_gauge=0.1 kPa  Air=NORMAL
+2026-09-12T15:43:22.353	ADC=973  Voltage=847 mV  P_abs=97.1 kPa  P_gauge=-0.4 kPa  Air=NORMAL
+2026-09-12T15:43:23.092	ADC=979  Voltage=827 mV  P_abs=96.7 kPa  P_gauge=-0.8 kPa  Air=NORMAL
+2026-09-12T15:43:23.833	ADC=983  Voltage=835 mV  P_abs=97.6 kPa  P_gauge=0.2 kPa  Air=NORMAL
+2026-09-12T15:43:24.574	ADC=958  Voltage=829 mV  P_abs=97.8 kPa  P_gauge=0.3 kPa  Air=NORMAL
+2026-09-12T15:43:25.311	ADC=973  Voltage=827 mV  P_abs=97.4 kPa  P_gauge=-0.0 kPa  Air=NORMAL
+2026-09-12T15:43:26.052	ADC=995  Voltage=840 mV  P_abs=97.5 kPa  P_gauge=0.0 kPa  Air=NORMAL
+2026-09-12T15:43:26.792	ADC=972  Voltage=829 mV  P_abs=96.9 kPa  P_gauge=-0.5 kPa  Air=NORMAL
+2026-09-12T15:43:27.534	ADC=967  Voltage=814 mV  P_abs=97.6 kPa  P_gauge=0.1 kPa  Air=NORMAL
+2026-09-12T15:43:28.273	ADC=959  Voltage=834 mV  P_abs=98.1 kPa  P_gauge=0.6 kPa  Air=NORMAL
+2026-09-12T15:43:29.012	ADC=985  Voltage=834 mV  P_abs=97.1 kPa  P_gauge=-0.3 kPa  Air=NORMAL
+2026-09-12T15:43:29.752	ADC=990  Voltage=852 mV  P_abs=97.5 kPa  P_gauge=0.0 kPa  Air=NORMAL
+2026-09-12T15:43:30.493	ADC=981  Voltage=849 mV  P_abs=97.8 kPa  P_gauge=0.4 kPa  Air=NORMAL
+2026-09-12T15:43:31.233	ADC=985  Voltage=818 mV  P_abs=97.6 kPa  P_gauge=0.2 kPa  Air=NORMAL
+2026-09-12T15:43:31.971	ADC=987  Voltage=848 mV  P_abs=97.0 kPa  P_gauge=-0.4 kPa  Air=NORMAL
+2026-09-12T15:43:32.713	ADC=969  Voltage=844 mV  P_abs=97.5 kPa  P_gauge=0.0 kPa  Air=NORMAL
+2026-09-12T15:43:34.193	ADC=987  Voltage=848 mV  P_abs=96.2 kPa  P_gauge=-1.3 kPa  Air=NORMAL
+2026-09-12T15:43:34.195	ADC=972  Voltage=830 mV  P_abs=96.8 kPa  P_gauge=-0.6 kPa  Air=NORMAL
+2026-09-12T15:43:34.933	ADC=966  Voltage=830 mV  P_abs=97.6 kPa  P_gauge=0.2 kPa  Air=NORMAL
+2026-09-12T15:43:36.413	ADC=941  Voltage=818 mV  P_abs=97.2 kPa  P_gauge=-0.3 kPa  Air=NORMAL
+2026-09-12T15:43:36.415	ADC=983  Voltage=846 mV  P_abs=97.7 kPa  P_gauge=0.2 kPa  Air=NORMAL
+2026-09-12T15:43:37.153	ADC=988  Voltage=844 mV  P_abs=97.9 kPa  P_gauge=0.5 kPa  Air=NORMAL
+2026-09-12T15:43:38.633	ADC=981  Voltage=809 mV  P_abs=96.2 kPa  P_gauge=-1.3 kPa  Air=NORMAL
+2026-09-12T15:43:39.373	ADC=979  Voltage=822 mV  P_abs=97.4 kPa  P_gauge=-0.0 kPa  Air=NORMAL
+2026-09-12T15:43:39.375	ADC=989  Voltage=840 mV  P_abs=96.8 kPa  P_gauge=-0.6 kPa  Air=NORMAL
+2026-09-12T15:43:40.113	ADC=966  Voltage=816 mV  P_abs=97.3 kPa  P_gauge=-0.1 kPa  Air=NORMAL
+2026-09-12T15:43:40.854	ADC=997  Voltage=818 mV  P_abs=97.8 kPa  P_gauge=0.3 kPa  Air=NORMAL
+2026-09-12T15:43:41.594	ADC=958  Voltage=823 mV  P_abs=96.7 kPa  P_gauge=-0.7 kPa  Air=NORMAL
+2026-09-12T15:43:42.333	ADC=985  Voltage=845 mV  P_abs=95.7 kPa  P_gauge=-1.7 kPa  Air=NORMAL
+2026-09-12T15:43:43.073	ADC=979  Voltage=844 mV  P_abs=96.9 kPa  P_gauge=-0.5 kPa  Air=NORMAL
+2026-09-12T15:43:43.813	ADC=951  Voltage=814 mV  P_abs=96.9 kPa  P_gauge=-0.5 kPa  Air=NORMAL
+2026-09-12T15:43:45.292	ADC=982  Voltage=822 mV  P_abs=97.0 kPa  P_gauge=-0.4 kPa  Air=NORMAL
+2026-09-12T15:43:45.295	ADC=990  Voltage=840 mV  P_abs=97.2 kPa  P_gauge=-0.2 kPa  Air=NORMAL
+2026-09-12T15:43:46.032	ADC=957  Voltage=822 mV  P_abs=97.4 kPa  P_gauge=-0.0 kPa  Air=NORMAL
+2026-09-12T15:43:46.774	ADC=979  Voltage=822 mV  P_abs=97.5 kPa  P_gauge=0.0 kPa  Air=NORMAL
+2026-09-12T15:43:48.253	ADC=969  Voltage=818 mV  P_abs=96.9 kPa  P_gauge=-0.5 kPa  Air=NORMAL
+2026-09-12T15:43:48.255	ADC=983  Voltage=820 mV  P_abs=97.4 kPa  P_gauge=-0.0 kPa  Air=NORMAL
+2026-09-12T15:43:48.992	ADC=987  Voltage=841 mV  P_abs=98.2 kPa  P_gauge=0.8 kPa  Air=NORMAL
+2026-09-12T15:43:49.731	ADC=941  Voltage=846 mV  P_abs=96.6 kPa  P_gauge=-0.8 kPa  Air=NORMAL
+2026-09-12T15:43:50.473	ADC=969  Voltage=834 mV  P_abs=97.1 kPa  P_gauge=-0.3 kPa  Air=NORMAL
+2026-09-12T15:43:51.213	ADC=954  Voltage=845 mV  P_abs=98.1 kPa  P_gauge=0.6 kPa  Air=NORMAL
+2026-09-12T15:43:52.693	ADC=975  Voltage=834 mV  P_abs=96.5 kPa  P_gauge=-0.9 kPa  Air=NORMAL
+2026-09-12T15:43:52.695	ADC=990  Voltage=830 mV  P_abs=97.1 kPa  P_gauge=-0.4 kPa  Air=NORMAL
+2026-09-12T15:43:53.433	ADC=975  Voltage=833 mV  P_abs=97.4 kPa  P_gauge=-0.1 kPa  Air=NORMAL
+2026-09-12T15:43:54.913	ADC=970  Voltage=806 mV  P_abs=97.3 kPa  P_gauge=-0.2 kPa  Air=NORMAL
+2026-09-12T15:43:54.915	ADC=979  Voltage=823 mV  P_abs=97.4 kPa  P_gauge=-0.1 kPa  Air=NORMAL
+2026-09-12T15:43:55.653	ADC=953  Voltage=842 mV  P_abs=96.7 kPa  P_gauge=-0.8 kPa  Air=NORMAL
+2026-09-12T15:43:56.392	ADC=989  Voltage=830 mV  P_abs=97.8 kPa  P_gauge=0.3 kPa  Air=NORMAL
+2026-09-12T15:43:57.132	ADC=968  Voltage=834 mV  P_abs=96.8 kPa  P_gauge=-0.6 kPa  Air=NORMAL
+2026-09-12T15:43:57.873	ADC=490  Voltage=428 mV  P_abs=32.5 kPa  P_gauge=-65.0 kPa  Air=LOW
+2026-09-12T15:43:58.613	ADC=462  Voltage=411 mV  P_abs=30.7 kPa  P_gauge=-66.8 kPa  Air=LOW
+2026-09-12T15:43:59.352	ADC=467  Voltage=414 mV  P_abs=30.5 kPa  P_gauge=-67.0 kPa  Air=LOW
+2026-09-12T15:44:00.091	ADC=454  Voltage=403 mV  P_abs=29.3 kPa  P_gauge=-68.1 kPa  Air=LOW
+2026-09-12T15:44:00.833	ADC=439  Voltage=405 mV  P_abs=29.9 kPa  P_gauge=-67.6 kPa  Air=LOW
+2026-09-12T15:44:01.572	ADC=459  Voltage=406 mV  P_abs=28.2 kPa  P_gauge=-69.2 kPa  Air=LOW
+2026-09-12T15:44:02.311	ADC=439  Voltage=375 mV  P_abs=28.4 kPa  P_gauge=-69.0 kPa  Air=LOW
+2026-09-12T15:44:03.051	ADC=1943  Voltage=1791 mV  P_abs=255.1 kPa  P_gauge=157.7 kPa  Air=HIGH
+2026-09-12T15:44:03.792	ADC=2469  Voltage=2190 mV  P_abs=296.8 kPa  P_gauge=199.3 kPa  Air=HIGH
+2026-09-12T15:44:04.533	ADC=2649  Voltage=2394 mV  P_abs=315.0 kPa  P_gauge=217.6 kPa  Air=HIGH
+2026-09-12T15:44:05.273	ADC=2729  Voltage=2224 mV  P_abs=313.6 kPa  P_gauge=216.1 kPa  Air=HIGH
+2026-09-12T15:44:06.013	ADC=2605  Voltage=2379 mV  P_abs=310.6 kPa  P_gauge=213.1 kPa  Air=HIGH
+2026-09-12T15:44:06.753	ADC=2639  Voltage=2376 mV  P_abs=311.1 kPa  P_gauge=213.6 kPa  Air=HIGH
+2026-09-12T15:44:07.493	ADC=2695  Voltage=2238 mV  P_abs=306.1 kPa  P_gauge=208.6 kPa  Air=HIGH
+2026-09-12T15:44:08.233	ADC=2163  Voltage=1967 mV  P_abs=255.4 kPa  P_gauge=157.9 kPa  Air=HIGH
+2026-09-12T15:44:08.973	ADC=2181  Voltage=2014 mV  P_abs=255.6 kPa  P_gauge=158.1 kPa  Air=HIGH
+2026-09-12T15:44:09.712	ADC=2271  Voltage=1978 mV  P_abs=253.1 kPa  P_gauge=155.6 kPa  Air=HIGH
+2026-09-12T15:44:10.453	ADC=2208  Voltage=1801 mV  P_abs=257.0 kPa  P_gauge=159.5 kPa  Air=HIGH
+2026-09-12T15:44:11.193	ADC=2328  Voltage=1914 mV  P_abs=250.3 kPa  P_gauge=152.8 kPa  Air=HIGH
+2026-09-12T15:44:11.932	ADC=2314  Voltage=2012 mV  P_abs=255.7 kPa  P_gauge=158.2 kPa  Air=HIGH
+2026-09-12T15:44:12.673	ADC=2233  Voltage=1994 mV  P_abs=254.5 kPa  P_gauge=157.0 kPa  Air=HIGH
+2026-09-12T15:44:13.412	ADC=2149  Voltage=1974 mV  P_abs=253.0 kPa  P_gauge=155.6 kPa  Air=HIGH
+2026-09-12T15:44:14.151	ADC=2157  Voltage=1877 mV  P_abs=253.9 kPa  P_gauge=156.5 kPa  Air=HIGH
+2026-09-12T15:44:14.893	ADC=2262  Voltage=1906 mV  P_abs=254.8 kPa  P_gauge=157.3 kPa  Air=HIGH
+2026-09-12T15:44:15.632	ADC=2123  Voltage=1929 mV  P_abs=249.9 kPa  P_gauge=152.4 kPa  Air=HIGH
+2026-09-12T15:44:16.373	ADC=2148  Voltage=1831 mV  P_abs=249.2 kPa  P_gauge=151.7 kPa  Air=HIGH
+2026-09-12T15:44:17.111	ADC=2193  Voltage=1900 mV  P_abs=251.4 kPa  P_gauge=153.9 kPa  Air=HIGH
+2026-09-12T15:44:17.853	ADC=2295  Voltage=2005 mV  P_abs=250.6 kPa  P_gauge=153.1 kPa  Air=HIGH
+2026-09-12T15:44:18.593	ADC=2109  Voltage=1918 mV  P_abs=253.1 kPa  P_gauge=155.7 kPa  Air=HIGH
+2026-09-12T15:44:19.331	ADC=2185  Voltage=1868 mV  P_abs=252.3 kPa  P_gauge=154.9 kPa  Air=HIGH
+2026-09-12T15:44:20.072	ADC=2283  Voltage=1778 mV  P_abs=251.8 kPa  P_gauge=154.4 kPa  Air=HIGH
+2026-09-12T15:44:20.813	ADC=2237  Voltage=1994 mV  P_abs=250.0 kPa  P_gauge=152.6 kPa  Air=HIGH
+2026-09-12T15:44:21.553	ADC=2342  Voltage=1915 mV  P_abs=250.0 kPa  P_gauge=152.6 kPa  Air=HIGH
+2026-09-12T15:44:22.291	ADC=2266  Voltage=1823 mV  P_abs=253.8 kPa  P_gauge=156.3 kPa  Air=HIGH
+2026-09-12T15:44:23.031	ADC=2167  Voltage=1943 mV  P_abs=250.9 kPa  P_gauge=153.5 kPa  Air=HIGH
+2026-09-12T15:44:23.770	ADC=2199  Voltage=1787 mV  P_abs=253.8 kPa  P_gauge=156.4 kPa  Air=HIGH
+2026-09-12T15:44:24.513	ADC=2314  Voltage=1788 mV  P_abs=250.7 kPa  P_gauge=153.3 kPa  Air=HIGH
+2026-09-12T15:44:25.254	ADC=2276  Voltage=1765 mV  P_abs=252.2 kPa  P_gauge=154.8 kPa  Air=HIGH
+2026-09-12T15:44:25.991	ADC=2203  Voltage=1927 mV  P_abs=250.3 kPa  P_gauge=152.8 kPa  Air=HIGH
+2026-09-12T15:44:26.732	ADC=2266  Voltage=1807 mV  P_abs=252.5 kPa  P_gauge=155.0 kPa  Air=HIGH
+2026-09-12T15:44:27.473	ADC=2275  Voltage=1744 mV  P_abs=250.9 kPa  P_gauge=153.4 kPa  Air=HIGH
+2026-09-12T15:44:28.212	ADC=2316  Voltage=1770 mV  P_abs=258.6 kPa  P_gauge=161.1 kPa  Air=HIGH
+2026-09-12T15:44:28.953	ADC=2077  Voltage=1960 mV  P_abs=251.2 kPa  P_gauge=153.7 kPa  Air=HIGH
+2026-09-12T15:44:29.690	ADC=2276  Voltage=1727 mV  P_abs=258.7 kPa  P_gauge=161.2 kPa  Air=HIGH
+2026-09-12T15:44:30.433	ADC=2075  Voltage=1952 mV  P_abs=251.6 kPa  P_gauge=154.2 kPa  Air=HIGH
+2026-09-12T15:44:31.172	ADC=2311  Voltage=1949 mV  P_abs=253.8 kPa  P_gauge=156.4 kPa  Air=HIGH
+2026-09-12T15:44:31.910	ADC=2257  Voltage=1923 mV  P_abs=254.5 kPa  P_gauge=157.0 kPa  Air=HIGH
+2026-09-12T15:44:32.650	ADC=2251  Voltage=1725 mV  P_abs=254.6 kPa  P_gauge=157.1 kPa  Air=HIGH
+2026-09-12T15:44:33.390	ADC=2157  Voltage=1819 mV  P_abs=254.0 kPa  P_gauge=156.5 kPa  Air=HIGH
+2026-09-12T15:44:34.132	ADC=2284  Voltage=1803 mV  P_abs=257.3 kPa  P_gauge=159.8 kPa  Air=HIGH
+2026-09-12T15:44:34.872	ADC=2180  Voltage=1705 mV  P_abs=253.6 kPa  P_gauge=156.2 kPa  Air=HIGH
+2026-09-12T15:44:35.613	ADC=2260  Voltage=1908 mV  P_abs=258.0 kPa  P_gauge=160.5 kPa  Air=HIGH
+2026-09-12T15:44:36.352	ADC=2219  Voltage=1785 mV  P_abs=246.1 kPa  P_gauge=148.6 kPa  Air=HIGH
+2026-09-12T15:44:37.093	ADC=2197  Voltage=1765 mV  P_abs=251.9 kPa  P_gauge=154.4 kPa  Air=HIGH
+2026-09-12T15:44:37.830	ADC=2198  Voltage=1705 mV  P_abs=254.2 kPa  P_gauge=156.7 kPa  Air=HIGH
+2026-09-12T15:44:38.572	ADC=2109  Voltage=1822 mV  P_abs=253.2 kPa  P_gauge=155.8 kPa  Air=HIGH
+2026-09-12T15:44:39.310	ADC=2195  Voltage=1683 mV  P_abs=251.7 kPa  P_gauge=154.2 kPa  Air=HIGH
+2026-09-12T15:44:40.052	ADC=2195  Voltage=1914 mV  P_abs=251.7 kPa  P_gauge=154.2 kPa  Air=HIGH
+2026-09-12T15:44:40.793	ADC=1997  Voltage=1861 mV  P_abs=252.9 kPa  P_gauge=155.4 kPa  Air=HIGH
+2026-09-12T15:44:41.534	ADC=2025  Voltage=1727 mV  P_abs=250.0 kPa  P_gauge=152.5 kPa  Air=HIGH
+2026-09-12T15:44:42.272	ADC=2168  Voltage=1714 mV  P_abs=251.5 kPa  P_gauge=154.0 kPa  Air=HIGH
+2026-09-12T15:44:43.012	ADC=2019  Voltage=1789 mV  P_abs=245.0 kPa  P_gauge=147.5 kPa  Air=HIGH
+2026-09-12T15:44:43.752	ADC=2074  Voltage=1861 mV  P_abs=250.9 kPa  P_gauge=153.4 kPa  Air=HIGH
+2026-09-12T15:44:44.492	ADC=2038  Voltage=1852 mV  P_abs=248.2 kPa  P_gauge=150.7 kPa  Air=HIGH
+2026-09-12T15:44:45.232	ADC=2079  Voltage=1775 mV  P_abs=246.9 kPa  P_gauge=149.4 kPa  Air=HIGH
+2026-09-12T15:44:45.973	ADC=2021  Voltage=1711 mV  P_abs=247.5 kPa  P_gauge=150.1 kPa  Air=HIGH
+2026-09-12T15:44:46.713	ADC=2023  Voltage=1671 mV  P_abs=244.3 kPa  P_gauge=146.8 kPa  Air=HIGH
+2026-09-12T15:44:47.451	ADC=1991  Voltage=1687 mV  P_abs=245.9 kPa  P_gauge=148.5 kPa  Air=HIGH
+2026-09-12T15:44:48.191	ADC=2026  Voltage=1800 mV  P_abs=240.5 kPa  P_gauge=143.0 kPa  Air=HIGH
+2026-09-12T15:44:48.932	ADC=2124  Voltage=1702 mV  P_abs=234.6 kPa  P_gauge=137.1 kPa  Air=HIGH
+2026-09-12T15:44:49.671	ADC=2080  Voltage=1681 mV  P_abs=246.8 kPa  P_gauge=149.4 kPa  Air=HIGH
+2026-09-12T15:44:50.412	ADC=1989  Voltage=1669 mV  P_abs=245.3 kPa  P_gauge=147.8 kPa  Air=HIGH
+2026-09-12T15:44:51.150	ADC=1981  Voltage=1716 mV  P_abs=239.7 kPa  P_gauge=142.3 kPa  Air=HIGH
+2026-09-12T15:44:51.893	ADC=2072  Voltage=1739 mV  P_abs=238.7 kPa  P_gauge=141.3 kPa  Air=HIGH
+2026-09-12T15:44:52.632	ADC=1981  Voltage=1671 mV  P_abs=237.1 kPa  P_gauge=139.6 kPa  Air=HIGH
+2026-09-12T15:44:53.371	ADC=1989  Voltage=1790 mV  P_abs=239.5 kPa  P_gauge=142.1 kPa  Air=HIGH
+2026-09-12T15:44:54.112	ADC=1975  Voltage=1675 mV  P_abs=238.6 kPa  P_gauge=141.2 kPa  Air=HIGH
+2026-09-12T15:44:54.853	ADC=1959  Voltage=1652 mV  P_abs=230.9 kPa  P_gauge=133.4 kPa  Air=HIGH
+2026-09-12T15:44:55.592	ADC=2027  Voltage=1848 mV  P_abs=232.8 kPa  P_gauge=135.4 kPa  Air=HIGH
