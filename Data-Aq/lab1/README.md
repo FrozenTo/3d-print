@@ -9,7 +9,7 @@ Ella Hiedel
 Sergei Varankin
 
 
-### Panime kirja, milliseid printereid, materjale ja tööriistu me tegelikult kasutate.
+### Panime kirja, milliseid printereid, materjale ja tööriistu me tegelikult kasutame.
 
 Kasutatud vahendid:
 
