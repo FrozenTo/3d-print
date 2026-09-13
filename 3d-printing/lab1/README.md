@@ -10,7 +10,7 @@ Sergei Varankin
 
 # Printer ja tööriistad
 
-### Panime kirja, milliseid printereid, materjale ja tööriistu te tegelikult kasutate.
+### Panime kirja, milliseid printereid, materjale ja tööriistu me tegelikult kasutame.
 
 Kasutatud vahendid
 
